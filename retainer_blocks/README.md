@@ -10,8 +10,8 @@
 ## Files
 
 * highline_woodworking_qcw_retainer_blocks_v01.art = Carveco Maker file used to create blocks
-* highline_woodworking_qcw_retainer_blocks_v01_fastening_insets.dxf = recessed fastening holes
-* highline_woodworking_qcw_retainer_blocks_v01_outlines.dxf = outlines of retainer blocks
+* v01_fastening_insets.dxf = recessed fastening holes
+* v01_outlines.dxf = outlines of retainer blocks
 
 ## Versions
 
