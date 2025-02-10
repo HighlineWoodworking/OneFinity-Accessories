@@ -13,6 +13,8 @@ MDF retainer blocks to secure the OneFinity Elite QCW to a table. The frame comb
 * (16) x #8 1 inch coarse pan head screws to secure blocks to a work surface
 * [Amazon Link for Screws](https://www.amazon.com/gp/product/B01M63E8DR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
+<img src="images/dimensions.png" alt="QCW Retainer Block dimensions." width="50%" />
+
 ## Files
 
 * qcw_retainer_blocks_v01.art = [Carveco Maker](https://carveco.com/carveco-software-range/carveco-maker/) source file
