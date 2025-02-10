@@ -6,3 +6,7 @@ Accessories for a [OneFinity CNC Machine](https://www.onefinitycnc.com/).
 
 [Retainer Blocks](retainer_blocks/README.md)
 
+## License
+
+Public Domain and freely available to do 
+
