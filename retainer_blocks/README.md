@@ -15,7 +15,7 @@ MDF retainer blocks to secure the OneFinity Elite QCW to a table. The frame comb
 
 ## Files
 
-* highline_woodworking_qcw_retainer_blocks_v01.art = Carveco Maker file used to create blocks
+* highline_woodworking_qcw_retainer_blocks_v01.art = Carveco Maker source file
 * v01_fastening_insets.dxf = recessed fastening holes
 * v01_outlines.dxf = outlines of retainer blocks
 
