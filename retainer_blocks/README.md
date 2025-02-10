@@ -1,4 +1,4 @@
-# OneFinity QCW Retainer Blocks Readme
+# OneFinity QCW Retainer Blocks
 
 MDF retainer blocks to secure the OneFinity Elite QCW to a table. The frame combined with the OneFinity is very solid, but the blocks provide extra protection to keep the machine from "walking" across the table. Blocks are split in half allowing them to be installed once the machine is setup.
 
