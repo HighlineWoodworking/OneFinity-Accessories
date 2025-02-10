@@ -5,7 +5,9 @@ Accessories for a [OneFinity CNC Machine](https://www.onefinitycnc.com/).
 
 [Retainer Blocks](retainer_blocks/README.md)
 
-Projects and files are 100% free to use under [CC0](https://creativecommons.org/public-domain/cc0/) which makes them as close to Public Domain as possible.
+## Using
+
+Projects and files are 100% free to use under [CC0](https://creativecommons.org/public-domain/cc0/).
 
 Finished products can also be purchased from the [Highline Woodworking Etsy Site](https://www.etsy.com/shop/HighlineWoodworking)
 
