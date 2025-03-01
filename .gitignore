@@ -1,0 +1,5 @@
+# local and temporary directories
+# ignores these folders wherever they occur in the repository
+local/
+gcode/
+temp/
