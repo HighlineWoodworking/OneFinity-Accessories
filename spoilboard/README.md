@@ -4,3 +4,7 @@ Spoilboard setup on a [OneFinity Journeyman Elite](https://www.onefinitycnc.com/
 
 1. [Outer Alignment Holes](outer_alignment_holes.md)
 
+## Materials
+
+* [1/4" Alignment Pins McMaster-Carr](https://www.mcmaster.com/catalog/131/3826/98381A542)
+
