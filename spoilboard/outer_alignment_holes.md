@@ -1,7 +1,8 @@
 # Outer Alignment Holes
 
 * Precisely aligns left and bottom edge of spoilboard on the QCW frame
-* Peck holes using Woodpeckers 1/4 inch upcut bit (US2100U)
+* Peck holes using a 1/4 inch up-cut end mill, for example:
+  * [Woodpeckers US2100U](https://www.woodpeck.com/ultra-shear-2-flute-quarter-inch-solid-carbide-spiral-bits.html)
 * Holes are aligned so board is positioned 10mm in from lower-left edge of leftmost large QCW slat
 * For 1/4 inch bit, hole center is 6.825mm from edges
 * Two holes on each side, at 110mm and 1080mm on X and 110mm and 700mm on Y
