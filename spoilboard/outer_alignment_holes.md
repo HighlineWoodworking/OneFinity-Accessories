@@ -11,3 +11,15 @@
 
 <img src="images/outer_alignment_pins.jpg" alt="Outer alignment pins." width="50%" />
 Spoilboard aligned with 1/4 inch alignment pins 10mm in from the lower-left corner of the leftmost wide QCW slat.
+
+## Files
+
+* outer_alignment_holes.art = [Carveco Maker](https://carveco.com/carveco-software-range/carveco-maker/) source file
+* outer_alignment_holes.dxf = [DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF) exported source file
+* outer_alignment_holes.dwg = AutoCad drawing file created with [Siemens Solid Edge 2D](https://resources.sw.siemens.com/en-US/download-free-2d-cad-software/)
+
+## Dimensions
+
+<img src="images/all_dimensions.png" alt="All dimensions." width="50%" />
+
+<img src="images/lower_left_dimensions.png" alt="Lower left dimensions." width="50%" />
