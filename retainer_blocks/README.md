@@ -25,7 +25,7 @@ Retainer blocks to secure the OneFinity Elite QCW to a table. The frame combined
 
 * v01 | 9-Feb-2025 | inital post
 
-Finished pieces can also be purchased from the [Highline Woodworking Etsy Site](https://www.etsy.com/shop/HighlineWoodworking)
+Finished pieces can also be purchased from the [Highline Woodworking Etsy Shop](https://www.etsy.com/shop/HighlineWoodworking)
 
 
 
