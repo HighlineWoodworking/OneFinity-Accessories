@@ -14,8 +14,6 @@ Retainer blocks to secure the OneFinity Elite QCW to a table. The frame combined
 * [Amazon Link for Screws](https://www.amazon.com/gp/product/B01M63E8DR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * inset fastening holes 3mm
 
-Finished pieces can also be purchased from the [Highline Woodworking Etsy Site](https://www.etsy.com/shop/HighlineWoodworking)
-
 <img src="images/dimensions.png" alt="QCW Retainer Block dimensions." width="75%" />
 
 ## Files
@@ -26,6 +24,8 @@ Finished pieces can also be purchased from the [Highline Woodworking Etsy Site](
 ## Versions
 
 * v01 | 9-Feb-2025 | inital post
+
+Finished pieces can also be purchased from the [Highline Woodworking Etsy Site](https://www.etsy.com/shop/HighlineWoodworking)
 
 
 
