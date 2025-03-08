@@ -4,7 +4,6 @@ Retainer blocks to secure the OneFinity Elite QCW to a table. The frame combined
 
 Finished pieces can also be purchased from the [Highline Woodworking Etsy Site](https://www.etsy.com/shop/HighlineWoodworking)
 
-
 <img src="images/one_foot.png" alt="QCW Retainer Block on one Foot." width="50%" />
 
 ## Notes
