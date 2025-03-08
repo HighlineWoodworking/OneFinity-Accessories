@@ -13,5 +13,4 @@ Accessories for a [OneFinity CNC Machine](https://www.onefinitycnc.com/).
 
 Projects and files are 100% free to use under [CC0](https://creativecommons.org/public-domain/cc0/).
 
-Finished pieces can also be purchased from the [Highline Woodworking Etsy Site](https://www.etsy.com/shop/HighlineWoodworking)
 
