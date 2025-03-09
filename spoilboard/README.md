@@ -6,7 +6,8 @@ Spoilboard setup on a [OneFinity Journeyman Elite](https://www.onefinitycnc.com/
 
 1. Flatten QCW boards
 2. Machine [Outer Alignment Holes](outer_alignment_holes.md)
-3. Cut primary spoilboard to size
+3. Setup lower spoilboard blank
+4. [Add Fastening Holes](fastening_holes.md)
 
 ## Materials
 
