@@ -6,7 +6,7 @@ Utilizes one or more sacrifical layers on top of the QCW slats.
 
 ## Advantages
 
-* Multiple levels provide felxibility, minimize torque, and protect the lower QCW slats
+* Multiple levels provide felxibility, minimize torque, and protect the QCW slats
 * Alignment pins maintain a high-degree of repeatable accuracy
 * Embedded hurricane nuts allow for secure, low-profile hold-downs
 * Follows the "MFT Standard" 96mm grid spacing
